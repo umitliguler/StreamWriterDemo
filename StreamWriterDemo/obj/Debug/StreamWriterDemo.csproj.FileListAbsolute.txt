@@ -1,0 +1,6 @@
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\StreamWriterDemo\StreamWriterDemo\bin\Debug\StreamWriterDemo.exe.config
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\StreamWriterDemo\StreamWriterDemo\bin\Debug\StreamWriterDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\StreamWriterDemo\StreamWriterDemo\bin\Debug\StreamWriterDemo.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\StreamWriterDemo\StreamWriterDemo\obj\Debug\StreamWriterDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\StreamWriterDemo\StreamWriterDemo\obj\Debug\StreamWriterDemo.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\StreamWriterDemo\StreamWriterDemo\obj\Debug\StreamWriterDemo.csprojResolveAssemblyReference.cache
